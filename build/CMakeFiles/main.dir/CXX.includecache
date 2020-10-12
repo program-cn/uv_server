@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/net/net.h
+stdio.h
+-
+stdint.h
+-
+
+/home/yhzhao/codes/uv_server/src/uv_server.cpp
+net/net.h
+/home/yhzhao/codes/uv_server/src/net/net.h
+glog/logging.h
+/home/yhzhao/codes/uv_server/src/glog/logging.h
+

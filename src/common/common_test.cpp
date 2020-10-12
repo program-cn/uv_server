@@ -165,7 +165,8 @@ int thread_safe_test() {
     return 0;
 }
 
-int test_main() {
+//int test_main() {
+int main() {
     int r;
     // 读写测试
     /*

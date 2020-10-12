@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a  CMakeFiles/common.dir/src/common/timer_mng.cpp.o CMakeFiles/common.dir/src/common/ringbuffer.c.o
+/usr/bin/ranlib libcommon.a

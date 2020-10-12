@@ -1,7 +1,7 @@
 #ifndef _TIMER_MNG_H_
 #define _TIMER_MNG_H_
 
-#include "uv/uv.h"
+#include "uv.h"
 
 typedef int ( *timer_func )( int p1, int p2 );
 

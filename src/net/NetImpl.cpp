@@ -137,7 +137,7 @@ void NetImpl::after_read(uv_stream_t* stream, ssize_t nread, const uv_buf_t* buf
 
 
 void NetImpl::on_connection(uv_stream_t* server_stream, int status) {
-    printf("new connection !!\n");
+    LOG("new connection !!\n");
     NetImpl* net = (NetImpl*)server_stream->data;
     uv_stream_t* stream;
     Session* client_socket;

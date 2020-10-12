@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yhzhao/codes/uv_server/src/common/ringbuffer.c
+ringbuffer.h
+/home/yhzhao/codes/uv_server/src/common/ringbuffer.h
+assert.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/yhzhao/codes/uv_server/src/common/ringbuffer.h
+stddef.h
+-
+sys/types.h
+-
+

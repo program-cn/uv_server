@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -std=c++11   CMakeFiles/common_test.dir/src/common/common_test.cpp.o  -o common_test  -L/home/yhzhao/codes/uv_server/3rd/libuv/lib -rdynamic libcommon.a -lpthread -Wl,-rpath,/home/yhzhao/codes/uv_server/3rd/libuv/lib 

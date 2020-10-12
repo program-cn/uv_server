@@ -2,7 +2,7 @@
 #define _NETIMPL_H_
 
 #include "net/net.h"
-#include "uv/uv.h"
+#include "uv.h"
 #include "Buffer.h"
 
 typedef struct {

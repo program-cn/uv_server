@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -std=c++11   CMakeFiles/main.dir/src/uv_server.cpp.o  -o main  -L/home/yhzhao/codes/uv_server/3rd/libuv/lib -rdynamic libnet.a -lglog -luv -Wl,-rpath,/home/yhzhao/codes/uv_server/3rd/libuv/lib 

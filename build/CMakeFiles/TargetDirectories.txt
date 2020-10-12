@@ -1,0 +1,6 @@
+/home/yhzhao/codes/uv_server/build/CMakeFiles/edit_cache.dir
+/home/yhzhao/codes/uv_server/build/CMakeFiles/rebuild_cache.dir
+/home/yhzhao/codes/uv_server/build/CMakeFiles/common.dir
+/home/yhzhao/codes/uv_server/build/CMakeFiles/net.dir
+/home/yhzhao/codes/uv_server/build/CMakeFiles/main.dir
+/home/yhzhao/codes/uv_server/build/CMakeFiles/common_test.dir
